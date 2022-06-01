@@ -1,4 +1,24 @@
-### Hi there 👋
+### Всем привет! 👋
+
+## Я Дарья, Frontend-разработчик. 
+
+
+### __Используемые технологии:__
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- Git
+- React
+- Vue.js
+- Webpack
+
+
+### Ссылки для связи
+[Telegram](https://t.me/Daria_Smirnova_60) <br>
+Email: darya.smirn1@yandex.ru
+
+
 
 <!--
 **smirnova-daria/smirnova-daria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
