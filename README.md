@@ -3,13 +3,15 @@
 ## Я Дарья, Frontend-разработчик. 
 
 
-### __Используемые технологии:__
+### __Использую технологии:__
 - HTML
 - CSS
 - SCSS
 - JavaScript
+- TypeScript
 - Git
 - React
+- Redux
 - Vue.js
 - Webpack
 
