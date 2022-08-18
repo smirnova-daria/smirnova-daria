@@ -14,11 +14,11 @@
 Проекты пишу на React, при этом понимаю принципы работы как с классовыми компонентами, так и с хуками. 
 Для управления состоянием использую Redux, в том числе работаю как с Redux core, так и с Redux toolkit.
 Умею работать с REST API, делаю запросы через axios.
-Дополнительно использую react-router-dom, react-redux, библиотеки компонентов (Material UI, Ant Design). Работала с css modules, styled component.
+Дополнительно использую TypeScript, react-router-dom, react-redux, библиотеки компонентов (Material UI, Ant Design). Работала с css modules, styled component.
 Умею писать unit тесты с использованием jest и react testing library.
 
 ### __Использую технологии:__
-`|  HTML  |  CSS  |  SCSS  |  JavaScript  |  TypeScript  |  Git  |  React  |  Redux  |  Webpack  |`
+`|  HTML  |  CSS  |  SCSS  |  Figma  |  JavaScript  |  TypeScript  |  Git  |  React  |  Redux  |  Webpack  |`
 
 ### Ссылки для связи
 [Telegram](https://t.me/Daria_Smirnova_60) <br>
