@@ -18,15 +18,7 @@
 Умею писать unit тесты с использованием jest и react testing library.
 
 ### __Использую технологии:__
-- HTML
-- CSS
-- SCSS
-- JavaScript
-- TypeScript
-- Git
-- React
-- Redux
-- Webpack
+`|  HTML  |  CSS  |  SCSS  |  JavaScript  |  TypeScript  |  Git  |  React  |  Redux  |  Webpack  |`
 
 ### Ссылки для связи
 [Telegram](https://t.me/Daria_Smirnova_60) <br>
